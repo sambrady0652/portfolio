@@ -1,0 +1,20 @@
+# Site settings
+title: Sam Brady's Project Portfolio
+description: a compilation of full-stack projects by Sam Brady
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "https://sambrady0652.github.io/Sam-Brady/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Sam Brady
+user_description: Javascript | React & Redux | ExpressJS | NodeJS | Python | Flask | PostgreSQL
+user_title: Software Developer
+email: sambrady0652@gmail.com
+# twitter_username: lorem_ipsum
+github_username:  sambrady0652
+# gplus_username:  lorem_ipsum
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
