@@ -2,11 +2,11 @@
 title: Sam Brady
 description: a compilation of full-stack projects by Sam Brady
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
-url: "https://sambrady0652.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://sambrady0652.github.io/" # the base hostname
 
 # User settings
 username: Sam Brady
-user_description: Javascript | React & Redux | ExpressJS | NodeJS | Python | Flask | PostgreSQL
+user_description: I am a full-stack software developer living in Chicago. I come from a teaching background with degrees in Political Science, English Literature, and Education. I entered tech to see what else was out there. Turns out, there's a lot!
 user_title: Software Developer
 email: sambrady0652@gmail.com
 # twitter_username: lorem_ipsum
