@@ -1,8 +1,8 @@
 # Site settings
 title: Sam Brady
 description: a compilation of full-stack projects by Sam Brady
-baseurl: "/portfolio" # the subpath of your site, e.g. /blog
-url: "https://sambrady0652.github.io/" # the base hostname
+# baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+url: "http://sambrady.me" # the base hostname
 
 # User settings
 username: Sam Brady
