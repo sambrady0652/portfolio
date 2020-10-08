@@ -20,9 +20,15 @@
   h5 {
     margin: 0;
   }
+  ul {
+    list-style-type: none;
+    list-style-position: inside;
+    padding: 0;
+  }
   li {
     color: $main;
     font-size: 1.1rem;
+    font-weight: bold;
   }
   p {
     margin-right: 5px;
